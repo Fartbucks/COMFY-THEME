@@ -19,7 +19,6 @@
     width: 200px;
     height: 120px;
     background: url("https://i.imgur.com/7Bs88QB.png") no-repeat;
-    background-size: 100%;
 }
 
 @media (max-width: 1350px) {
